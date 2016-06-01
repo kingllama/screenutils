@@ -112,11 +112,10 @@ class Screen(object):
         """initialize a screen, if does not exists yet"""
         if not self.exists:
             self._id=None
-            # Detach the screen once attached, on a new tread.
-            Thread(target=self._delayed_detach).start()
             # support Unicode (-U),
-            # attach to a new/existing named screen (-R).
-            system('screen -UR ' + self.name)
+            # Run as deamon (-dmS)
+            system('screen -UdmS ' + self.name)
+
 
     def interrupt(self):
         """Insert CTRL+C in the screen session"""
@@ -165,10 +164,6 @@ class Screen(object):
                 self._status = infos[2][1:-1]
             else:
                 self._status = infos[1][1:-1]
-
-    def _delayed_detach(self):
-        sleep(0.5)
-        self.detach()
 
     def __repr__(self):
         return "<%s '%s'>" % (self.__class__.__name__, self.name)
