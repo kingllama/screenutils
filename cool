@@ -1,0 +1,28 @@
+lls[?1l>[?2004l
+kls\CONTRIBUTORS MANIFEST     TODO.md      [1m[36mscreenutils[39;49m[0m  [1m[36mtests[39;49m[0m
+LICENCE      README.rst   cool         setup.py
+[1m[3m%[23m[1m[0m                                                                                k..e/screenutils\[0m[23m[24m[J[01;32m➜  [36mscreenutils[00m [01;34mgit:([31mfeature-popen[34m) [33m✗[00m [K[?1h=[?2004hhhello[?1l>[?2004l
+khello\zsh: command not found: hello
+[1m[3m%[23m[1m[0m                                                                                k..e/screenutils\[0m[23m[24m[J[01;31m➜  [36mscreenutils[00m [01;34mgit:([31mfeature-popen[34m) [33m✗[00m [K[?1h=[?2004hssay "I am Coming for you"[?1l>[?2004l
+ksay\[1m[3m%[23m[1m[0m                                                                                k..e/screenutils\[0m[23m[24m[J[01;32m➜  [36mscreenutils[00m [01;34mgit:([31mfeature-popen[34m) [33m✗[00m [K[?1h=[?2004hssay "Motherfucker"[?1l>[?2004l
+ksay\[1m[3m%[23m[1m[0m                                                                                k..e/screenutils\[0m[23m[24m[J[01;32m➜  [36mscreenutils[00m [01;34mgit:([31mfeature-popen[34m) [33m✗[00m [K[?1h=[?2004hssay "I am Coming for you... Motherfucker"[?1l>[?2004l
+ksay\[1m[3m%[23m[1m[0m                                                                                k..e/screenutils\[0m[23m[24m[J[01;32m➜  [36mscreenutils[00m [01;34mgit:([31mfeature-popen[34m) [33m✗[00m [K[?1h=[?2004hssay "I am Coming for you. Motherfucker"[?1l>[?2004l
+ksay\[1m[3m%[23m[1m[0m                                                                                k..e/screenutils\[0m[23m[24m[J[01;32m➜  [36mscreenutils[00m [01;34mgit:([31mfeature-popen[34m) [33m✗[00m [K[?1h=[?2004hssay "I am Coming for you, Motherfucker"[?1l>[?2004l
+ksay\[1m[3m%[23m[1m[0m                                                                                k..e/screenutils\[0m[23m[24m[J[01;32m➜  [36mscreenutils[00m [01;34mgit:([31mfeature-popen[34m) [33m✗[00m [K[?1h=[?2004hssay "I am Coming for you, motherfucker!"[?1l>[?2004l
+[0m[23m[24m[Jdquote> [K[?1h=[?2004hssay "I am Coming for you, motherfucker!"[?1l>[?2004l
+[0m[23m[24m[Jdquote> [K[?1h=[?2004h[?2004l
+[1m[3m%[23m[1m[0m                                                                                k..e/screenutils\[0m[23m[24m[J[01;31m➜  [36mscreenutils[00m [01;34mgit:([31mfeature-popen[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+kls\CONTRIBUTORS MANIFEST     TODO.md      [1m[36mscreenutils[39;49m[0m  [1m[36mtests[39;49m[0m
+LICENCE      README.rst   cool         setup.py
+[1m[3m%[23m[1m[0m                                                                                k..e/screenutils\[0m[23m[24m[J[01;32m➜  [36mscreenutils[00m [01;34mgit:([31mfeature-popen[34m) [33m✗[00m [K[?1h=[?2004hlls -l[?1l>[?2004l
+kls\total 56
+-rw-r--r--  1 Keithh  staff   285 26 Feb 09:43 CONTRIBUTORS
+-rw-r--r--  1 Keithh  staff     0 19 May  2016 LICENCE
+-rw-r--r--  1 Keithh  staff    88 19 May  2016 MANIFEST
+-rw-r--r--  1 Keithh  staff  4123 26 Feb 09:43 README.rst
+-rw-r--r--  1 Keithh  staff    80 23 Nov 21:18 TODO.md
+-rw-r--r--  1 Keithh  staff  2727 26 Feb 11:20 cool
+drwxr-xr-x  9 Keithh  staff   306 26 Feb 11:21 [1m[36mscreenutils[39;49m[0m
+-rw-r--r--  1 Keithh  staff   693 26 Feb 09:43 setup.py
+drwxr-xr-x  5 Keithh  staff   170 26 Feb 09:42 [1m[36mtests[39;49m[0m
+[1m[3m%[23m[1m[0m                                                                                k..e/screenutils\[0m[23m[24m[J[01;32m➜  [36mscreenutils[00m [01;34mgit:([31mfeature-popen[34m) [33m✗[00m [K[?1h=[?2004h
